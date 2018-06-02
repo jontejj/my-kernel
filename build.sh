@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 export PREFIX=$HOME/opt/local
 export PATH="$PREFIX/bin:$PATH"
 

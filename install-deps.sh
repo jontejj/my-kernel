@@ -1,4 +1,6 @@
 #!/bin/bash
+set -e
+
 brew install make
 brew install wget
 
